@@ -1,4 +1,4 @@
-rails-app-templates
+Rails 4 Application Templates
 ===================
 
-Rails4 application templates
+Rails 4 application templates
